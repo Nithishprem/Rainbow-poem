@@ -1,4 +1,4 @@
-This is a rainbow poem
+This is a rainbow poem and unicorn
 
 Red
 Orange
@@ -8,4 +8,8 @@ Green
 Indigo
 Violet
 
+unicorn
 These are the colors of the rainbow
+This is the unicorn
+
+
