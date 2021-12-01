@@ -7,3 +7,5 @@ Blue
 Green
 Indigo
 Violet
+
+These are the colors of the rainbow
