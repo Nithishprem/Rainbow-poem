@@ -7,6 +7,9 @@ Blue
 Green
 Indigo
 Violet
-unicorn
 
+unicorn
+These are the colors of the rainbow
 This is the unicorn
+
+
