@@ -2,6 +2,7 @@ This is a rainbow poem
 
 Red
 Orange
+Yellow
 Blue
 Green
 Indigo
